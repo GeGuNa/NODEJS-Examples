@@ -1,0 +1,16 @@
+{
+  "name": "NodejsToturial",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "NXCOMM",
+  "contributors": [],
+  "dependencies": {
+    "form-data": "^2.3.2"
+  }
+}
